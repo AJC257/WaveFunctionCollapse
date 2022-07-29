@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d223481d791aab34a98111b9a5b9cac8, type: 3}
+  m_Name: Blank
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 11400000, guid: aff491e9031e3764086136efbfabf5c3, type: 2}
+  tileValue: 0
+  upTiles: 0000000001000000
+  rightTiles: 0000000002000000
+  downTiles: 0000000003000000
+  leftTiles: 0000000004000000
